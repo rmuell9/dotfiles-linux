@@ -1,14 +1,14 @@
 Browser Stack:
 
-*Vimium
-*Ublock
-*Dark Reader
-*Control Panel for Twitter
-*Bitwarden Password Manager
-*Decentraleyes
-*News Feed Eradictor
-*Unhook
-*I still dont care about cookies
+*Vimium   
+*Ublock  
+*Dark Reader  
+*Control Panel for Twitter  
+*Bitwarden Password Manager  
+*Decentraleyes  
+*News Feed Eradictor  
+*Unhook  
+*I still dont care about cookies  
 
 Block Elements:
     
