@@ -1,16 +1,16 @@
 Browser Stack:
 
-Vimium
-Ublock
-Dark Reader
-Control Panel for Twittr
-Bitwarden Password Manager
-Decentraleyes
-News Feed Eradictor
-Unhook
-I still dont care about cookies
+-Vimium
+-Ublock
+-Dark Reader
+-Control Panel for Twitter
+-Bitwarden Password Manager
+-Decentraleyes
+-News Feed Eradictor
+-Unhook
+-I still dont care about cookies
 
-Block Elemets:
+Block Elements:
     
 mathacademy.com##html[data-darkreader-scheme="dark"] .logo
 
